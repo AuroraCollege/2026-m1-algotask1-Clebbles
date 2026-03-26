@@ -21,7 +21,7 @@ def square(number):
 
 # YOUR ANSWERS (fill in the blanks):
 # greet_student is a: function  because: because it uses def that defines a resuable block of code
-# square is a: function  because: because it also uses the def that defines a reusable block of code
+# square is a: procedure  because: because it runs a reusable block of code
 
 
 # ----------------------------------------------------------
