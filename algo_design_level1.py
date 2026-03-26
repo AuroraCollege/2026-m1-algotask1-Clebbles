@@ -20,8 +20,8 @@ def square(number):
 
 
 # YOUR ANSWERS (fill in the blanks):
-# greet_student is a: ___________  because: ___________
-# square is a:        ___________  because: ___________
+# greet_student is a: function  because: because it uses def that defines a resuable block of code
+# square is a: function  because: because it also uses the def that defines a reusable block of code
 
 
 # ----------------------------------------------------------
@@ -34,7 +34,10 @@ def square(number):
 # YOUR CODE HERE:
 
 
+print (square(7))
 
+
+greet_student("Caleb")
 
 
 # ----------------------------------------------------------
